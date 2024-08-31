@@ -1,0 +1,17 @@
+.getAppButton{
+    height: 45px;
+}
+@media screen and (max-width: 640px) {
+   .getAppButton{
+    padding: 0px 10px;
+   }
+  }
+.webLogo{
+    width: 140px;
+    height: 50px;
+}
+.mobileLogo{
+    height: 50px;
+    width: 50px;
+    margin-top: 4px;
+}
